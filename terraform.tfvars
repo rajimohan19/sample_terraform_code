@@ -1,3 +1,3 @@
 instance_count = 1
-ami            = "ami-0261755bbcb8c4a84"
+ami            = "ami-05a5bb48beb785bf1"
 instance_type  = "t2.micro"
